@@ -3,7 +3,7 @@ subtract = lambda x,y : x - y
 multiply = lambda x,y : x * y
 divide = lambda x,y : x / y
 
-add(5,6)
-subtract(10,6)
-multiply(10,6)
-divide(10,6)
+print(add(5,6))
+print(subtract(10,6))
+print(multiply(10,6))
+print(divide(10,6))
